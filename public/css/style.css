@@ -60,4 +60,15 @@ section .ligne1 .txt1 {
   padding-top: 50px;
 }
 
+section2 .ligne2 {
+  display: flex;
+  justify-content: center;
+  text-align: left;
+  padding-top: 70px;
+  gap: 100px;
+}
+section2 .ligne2 .txt2 {
+  padding-top: 50px;
+}
+
 /*# sourceMappingURL=style.css.map */
